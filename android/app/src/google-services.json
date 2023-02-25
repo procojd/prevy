@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914642081975",
+    "project_id": "prevvy-af572",
+    "storage_bucket": "prevvy-af572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914642081975:android:d9ba0383cc15b14e44d532",
+        "android_client_info": {
+          "package_name": "com.example.prevy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914642081975-b3c6q72q1p651ns63fblbpd5cdpesqpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7FnlkUZE_wgDR_4TkgTlfYAOwU6ttNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914642081975-b3c6q72q1p651ns63fblbpd5cdpesqpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
